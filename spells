@@ -1,0 +1,19 @@
+-- Orisons   inf
+Light: Object shines like a torch.
+Spark: Ignites flammable objects.
+Virtue: Subject gains 1 temporary hp.
+Flare (fort): Dazzles one creature (–1 penalty on attack rolls).
+
+-- Level 1   0/3
+-Cure Light Wounds: Cures 1d8 damage + 1/level (max +5).
+-Speak with Animals
+-Produce Flame: 1d6 damage + 1/level, touch or thrown.
+
+-- Level 2   1/1
+Fire Sneeze: Launch flaming, forceful loogies at your enemies.
+
+-- Level 3   1/1
+Dominate Animal: One animal obeys your silent mental commands and orders.
+
+-- Level 4   1/1
+Flaming Sphere, Greater: Rolling ball of fire deals 6d6 fire damage and ignites targets.

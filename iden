@@ -1,0 +1,88 @@
+
+ -- Iden --
+
+Female Human Druid Child 
+Level 2
+Chaotic Neutral
+
+
+Strength	12	(+1)
+Dexterity	12	(+1)
+Constitution	13	(+1)
+Intelligence	10	(+0)
+Wisdom		18	(+4)
+Charisma	9	(-1)
+Size:		Medium
+Height:		4'
+Weight:		150 lb
+
+Total Hit Points: 15/16
+HD: 8
+
+Speed: 30 feet
+
+Base Attack Bonus: 1
+Armor Class: 12 = 10 + 1 [padded] + 1 [dexterity]
+
+Touch AC: 11
+Flat-footed: 11
+Initiative modifier:	+ 1	= + 1 [dexterity]
+Fortitude save:		+ 4	= 3 [base] + 1 [constitution]
+Reflex save:		+ 1	= 0 [base] + 1 [dexterity]
+Will save:		+ 7	= 3 [base] + 4 [wisdom]
+Attack (handheld):	+ 2	= 1 [base] + 1 [strength]
+Attack (missile):	+ 2	= 1 [base] + 1 [dexterity]
+Combat Maneuver Bonus:	+ 2	= 1 [base] + 1 [strength]
+Combat Maneuver Defense:  + 13	= 10 + 1 [base] + 1 [strength] + 1 [dexterity]
+
+Languages:	Common Druidic
+
+
+ -- Skills --
+
+Acrobatics (Dex) [1] = 0
+Appraise (Int) [0] = 0
+Bluff (Cha) [0] = -1
+*Climb (Str) [1] = 2
+*Craft_1 (Int) [0] = 0
+*Craft_2 (Int) [0] = 0
+*Craft_3 (Int) 0 = 0
+Diplomacy (Cha)	[0] = -1
+Disable device (Dex) = 1
+Disguise (Cha) = -1
+Escape Artist (Dex) = 1
+*Fly (Dex) 1 = 1
+*Handle Animal (Cha) [1] = 3
+*Heal (Wis) [1] = 8
+Intimidate (Cha) [1] = 0
+Knowledge (arcana) (Int) [0] = 0
+Knowledge (engineering) (Int) [0] = 0
+Knowledge (dungeoneering) (Int) [0] = 0
+*Knowledge (geography) (Int) [0] = 0
+Knowledge (history) (Int) [0] = 0
+Knowledge (local) (Int) [0] = 0
+*Knowledge (nature) (Int) [1] = 4 + 2(Nature Sense)
+Knowledge (nobility) (Int) [0] = 0
+Knowledge (planes) (Int) [0] = 0
+Knowledge (religion) (Int) [0] = 0
+Linguistics (Int) [0] = 0
+*Perception  (Wis) [1] = 8
+Perform_1 (Cha) = -1
+Perform_2 (Cha)	= -1
+Perform_3 (Cha)	= -1
+Perform_4 (Cha)	= -1
+Perform_5 (Cha)	= -1
+*Profession (Wis) [0] = 0
+*Ride (Dex) [1] = 5
+Sense Motive (Wis) [0] = 4
+* Spellcraft (Int) [1] = 4
+Stealth	(Dex) [0] = 1
+*Survival (Wis) [1] = 8 
+*Swim (Str) [1] = 5 
+Use magic device (Cha) [0] = -1
+
+
+-- Feats --
+
+Combat Casting	+4 on concentration checks for defensive casting
+Combat Reflexes	Additional opportunity attacks
