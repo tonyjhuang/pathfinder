@@ -1,28 +1,32 @@
 
  -- Pwyll --
 
-Level 2 Bear Companion
+Level 3 Bear Companion
 
 
-Strength 15
-Constitution 13
-Dexterity 15
-Intelligence 2
-Wisdom 12
-Charisma 6
+Strength 15      (+2) {+1}
+Constitution 13  (+1)
+Dexterity 15     (+2) {+1}
+Intelligence 2   (-4)
+Wisdom 12        (+1)
+Charisma 6       (-2)
 
 Total Hit Points: 25
+HD: 3d8
 Size: Small
 Speed: 40 feet
 
-Armor Class: 16 = 10 + 3 [natural armor] + 1 [small] + 2 [dexterity]
+Base Attack Bonus: +2
+Armor Class: 17 = 10 + 2 [base n. armor] + 
+   2 [bonus n. armor] + 1 [imp. n. armor] + 1 [small] + 2 [dexterity] 
+
 Initiative modifier: 2 = 2 [dexterity]
-Fortitude save: 4 = 3 [base] +1 [constitution]
-Reflex save: 5 = 3 [base] +2 [dexterity]
-Will save: 2 = 1 [base] +1 [wisdom]
-Attack: +4 = +2 [base] + 2 [strength]; bite (1d6) 2 claws (1d3)
-Combat Maneuver Bonus: + 3 = 2 [base] + 2 [strength] -1 [small] 
-Combat Maneuver Defense: + 25 = 20 +2 [base] + 2 [strength] + 2 [dexterity] -1 [small] 
+Fortitude save: 4 = 3 [base] + 1 [constitution]
+Reflex save: 6 = 3 [base] + 3 [dexterity]
+Will save: 2 = 1 [base] + 1 [wisdom]
+Attack: 5 = +2 [base] + 3 [strength]; bite (1d6) 2 claws (1d3)
+Combat Maneuver Bonus: 4 = 2 [base] + 3 [strength] - 1 [small] 
+Combat Maneuver Defense: 15 = 10 + 2 [base] + 2 [strength] + 2 [dexterity] - 1 [small] 
 
 Special: low-light vision, scent
 
@@ -41,12 +45,12 @@ Skill: Swim 2 [2 strength + 0 ranks]
  -- Feats --
 
 Feat: Improved Natural Armor x 1
-Feat: Improved Natural Attack x 1 (bite +1)
+Feat: Improved Natural Attack x 1 (bite + 1)
 
  -- Additional --
 
-Link, share spells (level 1)
-Evasion (level 3)
+Link, share spells (level 1)   *
+Evasion (level 3)   *
 Devotion (level 6)
 Multiattack (level 9)
 Improved evasion (level 15)

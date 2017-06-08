@@ -2,7 +2,7 @@
  -- Iden --
 
 Female Human Druid Child 
-Level 2
+Level 3
 Chaotic Neutral
 
 
@@ -16,23 +16,23 @@ Size:		Medium
 Height:		4'
 Weight:		150 lb
 
-Total Hit Points: 15/16
+Total Hit Points: 16/17
 HD: 8
 
 Speed: 30 feet
 
-Base Attack Bonus: 1
+Base Attack Bonus: 2
 Armor Class: 12 = 10 + 1 [padded] + 1 [dexterity]
 
 Touch AC: 11
 Flat-footed: 11
-Initiative modifier:	+ 1	= + 1 [dexterity]
+Initiative modifier:	+ 1	= 1 [dexterity]
 Fortitude save:		+ 4	= 3 [base] + 1 [constitution]
-Reflex save:		+ 1	= 0 [base] + 1 [dexterity]
+Reflex save:		+ 2	= 1 [base] + 1 [dexterity]
 Will save:		+ 7	= 3 [base] + 4 [wisdom]
-Attack (handheld):	+ 2	= 1 [base] + 1 [strength]
-Attack (missile):	+ 2	= 1 [base] + 1 [dexterity]
-Combat Maneuver Bonus:	+ 2	= 1 [base] + 1 [strength]
+Attack (handheld):	+ 3	= 2 [base] + 1 [strength]
+Attack (missile):	+ 3	= 2 [base] + 1 [dexterity]
+Combat Maneuver Bonus:	+ 3	= 2 [base] + 1 [strength]
 Combat Maneuver Defense:  + 13	= 10 + 1 [base] + 1 [strength] + 1 [dexterity]
 
 Languages:	Common Druidic
@@ -40,7 +40,7 @@ Languages:	Common Druidic
 
  -- Skills --
 
-Acrobatics (Dex) [1] = 0
+Acrobatics (Dex) [1] = 4
 Appraise (Int) [0] = 0
 Bluff (Cha) [0] = -1
 *Climb (Str) [1] = 2
@@ -61,12 +61,12 @@ Knowledge (dungeoneering) (Int) [0] = 0
 *Knowledge (geography) (Int) [0] = 0
 Knowledge (history) (Int) [0] = 0
 Knowledge (local) (Int) [0] = 0
-*Knowledge (nature) (Int) [1] = 4 + 2(Nature Sense)
+*Knowledge (nature) (Int) [2] = 5 + 2 (Nature Sense)
 Knowledge (nobility) (Int) [0] = 0
 Knowledge (planes) (Int) [0] = 0
 Knowledge (religion) (Int) [0] = 0
 Linguistics (Int) [0] = 0
-*Perception  (Wis) [1] = 8
+*Perception  (Wis) [2] = 9
 Perform_1 (Cha) = -1
 Perform_2 (Cha)	= -1
 Perform_3 (Cha)	= -1
@@ -74,13 +74,18 @@ Perform_4 (Cha)	= -1
 Perform_5 (Cha)	= -1
 *Profession (Wis) [0] = 0
 *Ride (Dex) [1] = 5
-Sense Motive (Wis) [0] = 4
+Sense Motive (Wis) [1] = 4
 * Spellcraft (Int) [1] = 4
 Stealth	(Dex) [0] = 1
-*Survival (Wis) [1] = 8 
+*Survival (Wis) [2] = 9 
 *Swim (Str) [1] = 5 
 Use magic device (Cha) [0] = -1
 
+-- Level 3 Druid -- 
+
+Woodland Stride - not impeded by brush
+Wild Empathy - improve animals attitude, roll d20 + level + charisma for DC (diplomacy)
+Trackless Step - can't be tracked
 
 -- Feats --
 
