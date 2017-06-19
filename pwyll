@@ -1,17 +1,17 @@
 
  -- Pwyll --
 
-Level 3 Bear Companion
+Level 3 Bear Companion   (+4 str)
 
 
-Strength 15      (+2) {+1}
+Strength 15      (+2) {+1} 
 Constitution 13  (+1)
 Dexterity 15     (+2) {+1}
 Intelligence 2   (-4)
 Wisdom 12        (+1)
 Charisma 6       (-2)
 
-Total Hit Points: 25
+Total Hit Points: 0/30   (+1)
 HD: 3d8
 Size: Small
 Speed: 40 feet
@@ -19,7 +19,7 @@ Speed: 40 feet
 Base Attack Bonus: +2
 Armor Class: 17 = 10 + 2 [base n. armor] + 
    2 [bonus n. armor] + 1 [imp. n. armor] + 1 [small] + 2 [dexterity] 
-
+   
 Initiative modifier: 2 = 2 [dexterity]
 Fortitude save: 4 = 3 [base] + 1 [constitution]
 Reflex save: 6 = 3 [base] + 3 [dexterity]

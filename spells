@@ -1,19 +1,15 @@
 -- Orisons   inf
-Light: Object shines like a torch.
+Guidance: +1 on attack, saving, or skill roll
 Spark: Ignites flammable objects.
 Virtue: Subject gains 1 temporary hp.
 Flare (fort): Dazzles one creature (–1 penalty on attack rolls).
 
--- Level 1   1/3
+-- Level 1   0/3
 -Tracking Mark
 -Acid Maw
--Detect Animals or Plants
+-Thunderstomp
 
--- Level 2   0/2
+-- Level 2   2/2
 Bulls Strength: +4 strength 1min/level
+Aggressive Thundercloud: 3d6, 100range, 20ft speed
 
--- Level 3   1/1
-Dominate Animal: One animal obeys your silent mental commands and orders.
-
--- Level 4   0/1
-Strong Jaw: Natural attacks deal damage as if dealt by creature two sizes larger. 2d6
